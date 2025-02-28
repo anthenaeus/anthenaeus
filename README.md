@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@rusty/30-nites-of-code)  
+  ![@rusty #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rusty)
 <!--
 **anthenaeus/anthenaeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
